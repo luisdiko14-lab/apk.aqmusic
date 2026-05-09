@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">AQMusic</string>
+    <string name="audio_permission">Audio access</string>
+    <string name="checking_permissions">Checking permissions…</string>
+    <string name="close_app">Close app</string>
+    <string name="enable_now">Enable now</string>
+    <string name="files_permission">Files access</string>
+    <string name="loading_app">Starting AQMusic…</string>
+    <string name="loading_page">Loading app content…</string>
+    <string name="notification_permission">Notifications access</string>
+    <string name="open_settings">Open settings</string>
+    <string name="overlay_permission_message">To keep AQMusic visible and allow audio controls, please grant the "appear on top" permission in the next screen.</string>
+    <string name="overlay_permission_title">Appear on top permission</string>
+    <string name="permission_request_message">AQMusic needs the following permissions to work correctly:</string>
+    <string name="permission_required">Required permission</string>
+    <string name="permissions_required">Permissions required</string>
+    <style name="Theme.AQMusic" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+</resources>

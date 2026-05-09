@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_500
+color purple_700
+color teal_200
+color white
+id loadingContainer
+id loadingProgress
+id loadingTitle
+id retryButton
+id statusMessage
+id webView
+layout activity_main
+string app_name
+string audio_permission
+string checking_permissions
+string close_app
+string enable_now
+string files_permission
+string loading_app
+string loading_page
+string notification_permission
+string open_settings
+string overlay_permission_message
+string overlay_permission_title
+string permission_request_message
+string permission_required
+string permissions_required
+style Theme.AQMusic
