@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AQMusic</string>
+    <string name="loading_page">Loading app content…</string>
+    <string name="loading_app">Starting AQMusic…</string>
+    <string name="checking_permissions">Checking permissions…</string>
+    <string name="permissions_required">Permissions required</string>
+    <string name="permission_request_message">AQMusic needs the following permissions to work correctly:</string>
+    <string name="audio_permission">Audio access</string>
+    <string name="files_permission">Files access</string>
+    <string name="notification_permission">Notifications access</string>
+    <string name="permission_required">Required permission</string>
+    <string name="open_settings">Open settings</string>
+    <string name="close_app">Close app</string>
+    <string name="overlay_permission_title">Appear on top permission</string>
+    <string name="overlay_permission_message">To keep AQMusic visible and allow audio controls, please grant the "appear on top" permission in the next screen.</string>
+    <string name="enable_now">Enable now</string>
+</resources>
